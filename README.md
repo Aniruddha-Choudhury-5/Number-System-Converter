@@ -6,7 +6,8 @@ A Python-based tool to convert numbers between different number systems:
 3. Octal
 4. Hexadecimal
 
-✅ Features
+✅ Features: 
+
 Convert between binary, decimal, octal, and hexadecimal
 
 Simple and easy-to-use interface 
